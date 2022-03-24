@@ -354,7 +354,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Blockgame20.sol": "Blockgame20"
+			"blockgame20.sol": "Blockgame20"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -400,7 +400,7 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"Blockgame20.sol": {
+		"blockgame20.sol": {
 			"keccak256": "0x8e64fa06fb776576193474bbf0b0c456f3fe95bb04d0c815038aafcef650f8c6",
 			"license": "MIT",
 			"urls": [
