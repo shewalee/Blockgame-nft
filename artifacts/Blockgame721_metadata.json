@@ -470,7 +470,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"blockgame721.sol": "Blockgame721"
+			"contract-8ec93532bf.sol": "Blockgame721"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -580,7 +580,7 @@
 				"dweb:/ipfs/QmP7C3CHdY9urF4dEMb9wmsp1wMxHF6nhA2yQE5SKiPAdy"
 			]
 		},
-		"blockgame721.sol": {
+		"contract-8ec93532bf.sol": {
 			"keccak256": "0x56702d35349b95ecc70a65133ef51985a8f55ff3743367626a36752ee641b211",
 			"license": "MIT",
 			"urls": [
